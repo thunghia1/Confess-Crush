@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Mèo con',
     introDesc: `Love you to the moon and back ^^`,
     btnIntro: 'next',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên',
+    title: 'Làm bạn gái anh nha',
     desc: 'Tình yêu của anh dành cho em vô tận như một số thập phân vô hạn tuần hoàn. Anh ước gì bóng hình anh có thể trở thành đường tròn ngoại tiếp trái tim em.',
     btnYes: 'Đồng ý',
     btnNo: 'Không nhaaaaaaaa',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh sẽ yêu e đến khi nào thiên hà này tàn lụi',
     messDesc: 'Đến khi chiều không gian thứ 3 này sụp đổ và khi động mạch không thể co bóp để truyền máu vào tim',
     btnAccept: 'Close',
-    messLink: 'https://www.facebook.com/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/'
 }
