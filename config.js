@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh sẽ yêu e đến khi nào thiên hà này tàn lụi',
     messDesc: 'Đến khi chiều không gian thứ 3 này sụp đổ và khi động mạch không thể co bóp để truyền máu vào tim',
     btnAccept: 'Close',
-    messLink: 'https://www.facebook.com/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/'
 }
