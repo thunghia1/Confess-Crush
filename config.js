@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Gửi Kim Chi Ngọc Diệp",
     introTitle: 'Mèo con',
     introDesc: `Love you to the moon and back ^^`,
-    btnIntro: '',
+    btnIntro: 'next',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Tình yêu của anh dành cho em vô tận như một số thập phân vô hạn tuần hoàn. Anh ước gì bóng hình anh có thể trở thành đường tròn ngoại tiếp trái tim em.',
     btnYes: 'Đồng ý',
